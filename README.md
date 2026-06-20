@@ -1,131 +1,299 @@
 <div align="center">
-<!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vedant+Jadhav;AI+Engineer+%7C+Data+Scientist;Generative+AI+Enthusiast" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0D1117&height=200&section=header&text=VEDANT%20JADHAV&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20and%20Data%20Science%20Undergrad&descSize=18&descAlignY=55" width="100%" alt="Banner"/>
 
 
-<!-- Minimalist Profile Views -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;AI+Engineer+in+Progress;Generative+AI+%7C+Computer+Vision+%7C+Data;From+Data+to+Intelligence+to+Automation" alt="Typing Animation" />
+
+
 <img src="https://komarev.com/ghpvc/?username=Agent-V450&color=00D4AA&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-
-<!-- Clean Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
 </div>
 
-About
-plain
-🎓 Final-year AI & Data Science student at GGS College of Engineering, Nashik
-🧠 Specializing in Generative AI, Machine Learning & Computer Vision
-🚀 Building intelligent systems that solve real-world problems
-🎤 Hosted AI workshops for 20+ students on RAG, LLMs & Prompt Engineering
+# 🖥️ COMMAND CENTER
 
-<!-- Tech Stack with Devicons -->
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                      VEDANT JADHAV                           ║
+╠══════════════════════════════════════════════════════════════╣
+║ Role        : AI Engineer in Progress                        ║
+║ Degree      : BE Artificial Intelligence & Data Science      ║
+║ Location    : Nashik, Maharashtra, India                     ║
+║ Focus       : Generative AI • Computer Vision • ML           ║
+║ Building    : Intelligent Systems & AI Applications          ║
+║ Learning    : MLOps • Agentic AI • Production AI             ║
+║ Mission     : Transform Data into Intelligence               ║
+║ Status      : Shipping Projects & Learning Daily             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🧠 KNOWLEDGE GRAPH
+
+```mermaid
+graph TD
+
+Vedant["⚡ Vedant Jadhav"]
+
+Vedant --> AI
+Vedant --> Data
+Vedant --> Engineering
+
+AI --> GenerativeAI
+AI --> ComputerVision
+AI --> MachineLearning
+
+GenerativeAI --> RAG
+GenerativeAI --> LangChain
+GenerativeAI --> Ollama
+GenerativeAI --> PromptEngineering
+
+ComputerVision --> YOLOv8
+ComputerVision --> OpenCV
+ComputerVision --> ObjectDetection
+
+MachineLearning --> Regression
+MachineLearning --> Classification
+MachineLearning --> ModelEvaluation
+
+Data --> SQL
+Data --> Pandas
+Data --> Visualization
+Data --> Analytics
+
+Engineering --> Git
+Engineering --> GitHub
+Engineering --> APIs
+Engineering --> SystemDesign
+
+RAG --> ChromaDB
+RAG --> Embeddings
+RAG --> SemanticSearch
+
+Engineering --> Future
+
+Future --> MLOps
+Future --> AgenticAI
+Future --> LangGraph
+Future --> ProductionSystems
+```
+
+---
+
+# 🚀 CURRENT MISSION
+
+### Building systems that bridge:
+
+```text
+Data  →  Intelligence  →  Automation
+```
+
+### Progress Tracker
+
+```text
+AI Engineering       █████████░ 90%
+Generative AI        █████████░ 90%
+Computer Vision      ████████░░ 80%
+Machine Learning     ████████░░ 80%
+Data Analytics       ███████░░░ 70%
+MLOps                ████░░░░░░ 40%
+Agentic AI           ███░░░░░░░ 30%
+```
+
+---
+
+# 🗺️ MY LEARNING JOURNEY
+
+```mermaid
+timeline
+
+title Evolution Towards AI Engineering
+
+2023 : Python
+     : Data Analysis
+     : Problem Solving
+
+2024 : Machine Learning
+     : Deep Learning
+     : Computer Vision
+
+2025 : YOLOv8 Projects
+     : Data Science Internship
+     : AI Workshops
+
+2026 : RAG Systems
+     : Generative AI
+     : AI Engineering
+
+Future : Agentic AI
+       : MLOps
+       : Production AI Systems
+```
+
+---
+
+# 🛠️ TECH ECOSYSTEM
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=mysql)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge\&logo=cplusplus)
+
+### AI & Machine Learning
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge\&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge\&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge\&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge\&logo=opencv)
+
+### Generative AI
+
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-111111?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-111111?style=for-the-badge)
+
+### Data
+
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-111111?style=for-the-badge)
+
+---
+
+# ⚙️ FEATURED SYSTEMS
+
+## 🤖 AI-Powered RAG Assistant
+
+```yaml
+Problem:
+  Querying documents efficiently
+
+Stack:
+  LangChain
+  ChromaDB
+  Ollama
+  Python
+
+Features:
+  Semantic Search
+  Local LLM Integration
+  Context Aware Responses
+  Zero API Cost
+```
+
+🔗 Repository: [Agent-V450/Local-RAG-System](https://github.com/Agent-V450/Local-RAG-System)
+
+---
+
+## 🏍️ Two-Wheeler Detection System
+
+```yaml
+Problem:
+  Real-time traffic monitoring
+
+Stack:
+  YOLOv8
+  OpenCV
+  Python
+
+Features:
+  Object Detection
+  Video Processing
+  Real-time Inference
+  Dataset Annotation Pipeline
+```
+
+🔗 Repository: [Agent-450/Two-Wheeler-Detection](https://github.com/Agent-V450/two-wheeler-detection)
+
+---
+
+## 📊 Diwali Sales Analysis
+
+```yaml
+Problem:
+  Understanding customer behaviour
+
+Stack:
+  Python
+  Pandas
+  NumPy
+  Matplotlib
+
+Features:
+  Data Cleaning
+  Exploratory Data Analysis
+  Customer Segmentation
+  Trend Visualization
+```
+
+🔗 Repository: REPLACE_WITH_LINK
+
+---
+
+# 🎯 BUILDING IN PUBLIC
+
+```text
+☑ Data Science Internship
+
+☑ AI Workshop Host
+
+☑ RAG Assistant
+
+☑ Computer Vision Projects
+
+☑ GitHub Portfolio
+
+☐ Production AI Deployment
+
+☐ LangGraph Agents
+
+☐ MLOps Pipeline
+
+☐ Open Source Contributions
+
+☐ Research Publication
+```
+
+---
+
+# 📈 GITHUB ANALYTICS
+
 <div align="center">
-Tech Stack
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" title="TensorFlow"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" title="PyTorch"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" title="OpenCV"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" title="Jupyter"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" title="C++"/>
-</p>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Agent-V450&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agent-V450&layout=compact&theme=transparent&hide_border=true"/>
+
 </div>
 
-<!-- GitHub Stats -->
+---
+
+# 🤝 LET'S CONNECT
+
 <div align="center">
-GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=Agent-V450&show_icons=true&theme=transparent&hide_border=true&title_color=00D4AA&text_color=c9d1d9&icon_color=00D4AA&ring_color=00D4AA" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agent-V450&layout=compact&theme=transparent&hide_border=true&title_color=00D4AA&text_color=c9d1d9" width="48%" alt="Top Languages" />
 
+[LinkedIn](https://linkedin.com/in/vedaaaannt)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Agent-V450&theme=transparent&hide_border=true&stroke=00D4AA&ring=00D4AA&fire=00D4AA&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00D4AA&sideLabels=c9d1d9&dates=c9d1d9" width="70%" alt="GitHub Streak" />
+•
+
+[GitHub](https://github.com/Agent-V450)
+
+•
+
+[Email](mailto:vedaaaannt@gmail.com)
+
 </div>
 
-<!-- Projects Section -->
+---
+
 <div align="center">
-Featured Projects
-</div>
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🤖 AI-Powered RAG Assistant</h3>
-      <p><sub>LangChain · ChromaDB · Ollama · Python</sub></p>
-      <p>Intelligent document Q&A with local LLMs. Semantic search, chunking, and context-aware responses — zero API costs.</p>
-      <a href="#"><sub>View Project →</sub></a>
-    </td>
-    <td width="50%">
-      <h3>🏍️ Two-Wheeler Detection</h3>
-      <p><sub>YOLOv8 · OpenCV · Python</sub></p>
-      <p>Real-time traffic monitoring with YOLOv8. Full pipeline: dataset prep, annotation, training, and live inference.</p>
-      <a href="#"><sub>View Project →</sub></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎆 Diwali Sales Analysis</h3>
-      <p><sub>Python · Pandas · NumPy · Matplotlib · Seaborn</sub></p>
-      <p>Customer purchase pattern analysis with trend identification across product categories and customer segments.</p>
-      <a href="#"><sub>View Project →</sub></a>
-    </td>
-    <td width="50%">
-      <h3>🚀 More Coming Soon</h3>
-      <p><sub>Stay tuned for upcoming projects</sub></p>
-      <p>Exploring MLOps, advanced LLM orchestration, and computer vision applications.</p>
-      <a href="https://github.com/Agent-V450?tab=repositories"><sub>All Repositories →</sub></a>
-    </td>
-  </tr>
-</table>
 
-<!-- Experience & Education -->
-<div align="center">
-Experience & Education
-</div>
-plain
-📊 Data Science Intern — Sunanda Infotech
-   Sep 2025 – Jan 2026 | Nashik, Maharashtra
-   ML projects, data preprocessing, model training & evaluation
-   Regression & classification models for real-world business problems
+### "The future belongs to those who build."
 
-🎤 Independent Workshop Host & Facilitator
-   Jan 2025 – Feb 2025 | Nashik, Maharashtra
-   AI workshops for 20–25 students | RAG, Prompt Engineering, LLM demos
+Currently exploring the intersection of
 
-🎓 BE in Artificial Intelligence & Data Science
-   GGS College of Engineering, Nashik | Expected July 2026
-   Coursework: ML · Deep Learning · Computer Vision · NLP · DBMS
+**Generative AI × Computer Vision × Intelligent Systems**
 
-<!-- Certifications -->
-<div align="center">
-Certifications
-| 🏅 Data Analytics Job Simulation | Deloitte Australia |
-| 🧠 Generative AI for Beginners | SkillUp by Simplilearn |
-| 💻 Python Full Stack Development | EduSkills |
-</div>
-
-<!-- Connect -->
-<div align="center">
-Connect
-<a href="mailto:vedaaaannt@gmail.com"> ·
-<a href="https://www.linkedin.com/in/Vedant-Jadhav"> ·
-<a href="https://github.com/Agent-V450"> ·
-<a href="tel:+918010978020">
-
-
-<!-- Minimal Footer -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
-
-<sub>
 </div>
