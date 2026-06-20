@@ -274,26 +274,24 @@ Features:
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/vedaaaannt)
+<a href="https://linkedin.com/in/Vedant-Jadhav">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Agent-V450">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:vedaaaannt@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-•
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0D1117&height=120&section=footer&text=THANKS%20FOR%20VISITING&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%" />
 
-[GitHub](https://github.com/Agent-V450)
 
-•
 
-[Email](mailto:vedaaaannt@gmail.com)
+#### "The future belongs to those who build."
 
-</div>
-
----
-
-<div align="center">
-
-### "The future belongs to those who build."
-
-Currently exploring the intersection of
-
-**Generative AI × Computer Vision × Intelligent Systems**
-
+<sub>
 </div>
