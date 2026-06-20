@@ -228,7 +228,7 @@ Features:
   Trend Visualization
 ```
 
-🔗 Repository: REPLACE_WITH_LINK
+🔗 Repository: [Agent-V450/Diwali-Sales-Analysis](https://github.com/Agent-V450/Diwali-Sales-Analysis)
 
 ---
 
