@@ -274,7 +274,7 @@ Features:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/Vedant-Jadhav">
+<a href="https://linkedin.com/in/vedaaaannt">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
