@@ -79,28 +79,6 @@ Future --> ProductionSystems
 
 ---
 
-# 🚀 CURRENT MISSION
-
-### Building systems that bridge:
-
-```text
-Data  →  Intelligence  →  Automation
-```
-
-### Progress Tracker
-
-```text
-AI Engineering       █████████░ 90%
-Generative AI        █████████░ 90%
-Computer Vision      ████████░░ 80%
-Machine Learning     ████████░░ 80%
-Data Analytics       ███████░░░ 70%
-MLOps                ████░░░░░░ 40%
-Agentic AI           ███░░░░░░░ 30%
-```
-
----
-
 # 🗺️ MY LEARNING JOURNEY
 
 ```mermaid
