@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0D1117&height=200&section=header&text=VEDANT%20JADHAV&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20and%20Data%20Science%20Undergrad&descSize=18&descAlignY=55" width="100%" alt="Banner"/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;AI+Engineer+in+Progress;Generative+AI+%7C+Computer+Vision+%7C+Data;From+Data+to+Intelligence+to+Automation" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems;AI+Engineer+in+Progress;Generative+AI+%7C+Computer+Vision+%7C+Data+Science;From+Data+to+Intelligence+to+Automation" alt="Typing Animation" />
 
 
 <img src="https://komarev.com/ghpvc/?username=Agent-V450&color=00D4AA&style=flat-square&label=Profile+Views" alt="Profile Views" />
